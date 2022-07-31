@@ -1,10 +1,5 @@
-
-
-
-
-
-
-
+A Machine Learning Algorithm that performs unsupervised clustering using k-means 
+with some statistics and a GUI interface
 
 
 To run the app
