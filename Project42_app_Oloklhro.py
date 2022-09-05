@@ -26,6 +26,7 @@ def main():
     ROWS = 1484
     COLS = 10
 
+
     onomata = ["CYT", "NUC", "MIT", "ME3", "ME2", "ME1", "EXC", "VAC", "POX", "ERL"]
 
     onomata2 = ["mcg", "gvh", "alm", "mit", "erl", "pox", "vac", "nuc"]
